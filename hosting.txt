@@ -1,0 +1,5 @@
+MySQL Database 
+database = u572075837_ammd_margasari
+username = u572075837_amm
+
+password = Ra$0xB2sV]vA
